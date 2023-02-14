@@ -1,9 +1,10 @@
 ```mermaid
 flowchart LR
-    id1(prep stain)-->id2(apply stain)
-    subgraph ide1 [one]
+    id1(Prep stain, 3-4 days)-->id2(Apply stain)
+    subgraph ide1 [woodworking steps]
     chop-->drill
     drill-->route
     route-->id2
+    id2-->id3(Apply BLO)
     end
 ```
