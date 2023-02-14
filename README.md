@@ -10,9 +10,9 @@ flowchart LR
     
     route-->id2
     
-    id2-->Apply BLO
+    id2-->|Apply BLO|
     
-    Apply BLO-->idwait24(Wait 24)
+    |Apply BLO|-->idwait24(Wait 24)
     
 ```
 ### Prep stain
