@@ -12,7 +12,7 @@ flowchart LR
     
     id2-->applyBLO1(Apply BLO)
     
-    applyBLO-->wait241(Wait 24)
+    applyBLO1-->wait241(Wait 24)
     
     wait241-->drillInserts(Drill out insert starters)
     
