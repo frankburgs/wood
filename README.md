@@ -10,7 +10,7 @@ flowchart LR
     
     route-->id2
     
-    id2-->applyBLO1(Apply BLO)
+    id2-->applyBLO1(Apply <br> BLO)
     
     applyBLO1-->wait241(Wait 24)
     
