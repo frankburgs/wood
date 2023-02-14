@@ -20,7 +20,8 @@ flowchart LR
     
 ```
 ### Prep stain
-- Finely cut #000 SS wool into three-to-one vinegar solution [!] do not tightly seal
+- [!] do not tightly seal container
+- Finely cut #000 SS wool into three-to-one vinegar solution
 - Allow three days, try pinholed tinfoil top to allow gas escape
 - Gently swirl on occasion, opening top may increase red colorsation
 
@@ -38,5 +39,11 @@ flowchart LR
 - Apply BLO by end of day
 
 ### Apply BLO
+- [!] Do not pile BLO soaked fabric
 - Try sprayer, 2 coats, 24 hour space
 - Insert starter holes are drilled out between 1st & second coat to prevent cracking
+
+## PPE
+- Eyepro/ faceshield
+- Mask or ventilation
+- Gloves, rubber and cut resistant
