@@ -12,9 +12,9 @@ flowchart LR
     
     route-->id2
     
-    id2-->id3(Apply BLO)
+    id2-->idBLO(Apply BLO)
     
-    id3-->id4(Wait 24)
+    idBLO-->id24(Wait 24)
     
     end
     
