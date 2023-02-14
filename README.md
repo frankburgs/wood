@@ -8,7 +8,7 @@ flowchart LR
     
     chop-->id3(drill, thru and insert starters)
     
-    drill-->route
+    id3-->route
     
     route-->id2
     
