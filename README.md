@@ -20,6 +20,8 @@ flowchart LR
     
     applyBLO2-->wait242(Wait24)
     
+    wait242-->inserts(Insert inserts, build frame)
+    
 ```
 ### Prep stain
 - Finely cut #000 SS wool into three-to-one vinegar solution [!] do not tightly seal
@@ -38,3 +40,7 @@ flowchart LR
 ### Apply stain
 - Use brush, do it early in the day to allow for evaporation, possible dryer use
 - Apply BLO by end of day
+
+### Apply BLO
+- Try sprayer, 2 coats, 24 hour space
+- Insert starter holes are drilled out between 1st & second coat to prevent cracking
