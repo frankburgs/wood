@@ -2,7 +2,7 @@
 
 flowchart LR
 
-    id1(Prep stain)--- three days --->id2(Apply stain)
+    id1(Prep stain)--- |three days| --->id2(Apply stain)
     
     chop-->drill
     
