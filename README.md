@@ -10,9 +10,15 @@ flowchart LR
     
     route-->id2
     
-    id2-->applyBLO(Apply BLO)
+    id2-->applyBLO1(Apply BLO)
     
-    applyBLO-->idwait24(Wait 24)
+    applyBLO-->wait241(Wait 24)
+    
+    wait241-->drillInserts(Drill out insert starters)
+    
+    drillInserts-->applyBLO2(Apply BLO)
+    
+    applyBLOw-->wait242(Wait24)
     
 ```
 ### Prep stain
