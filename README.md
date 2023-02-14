@@ -2,7 +2,7 @@
 
 flowchart LR
 
-    id1(Prep stain)-- (3-4 days) -->id2(Apply stain)
+    id1[Prep stain]--- idwait1(3-4 days) -->id2(Apply stain)
     
     subgraph ide1 [woodworking steps]
     
@@ -14,7 +14,7 @@ flowchart LR
     
     id2-->idBLO(Apply BLO)
     
-    idBLO-->id24(Wait 24)
+    idBLO-->idwait24(Wait 24)
     
     end
     
