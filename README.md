@@ -18,7 +18,7 @@ flowchart LR
     
     drillInserts-->applyBLO2(Apply BLO)
     
-    applyBLOw-->wait242(Wait24)
+    applyBLO2-->wait242(Wait24)
     
 ```
 ### Prep stain
