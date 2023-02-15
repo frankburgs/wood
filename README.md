@@ -8,7 +8,9 @@ flowchart LR
     
     drill-->route
     
-    route-->id2
+    route-->sand
+    
+    sand-->id2
     
     id2-->applyBLO1(Apply BLO<br>Wait 24)
     
@@ -42,6 +44,10 @@ flowchart LR
 - [!] Do not pile BLO soaked fabric
 - Try sprayer, 2 coats, 24 hour space
 - Insert starter holes are drilled out between 1st & second coat to prevent cracking
+
+### Sand
+- Use file > low grain > high grain to smooth out surface areas
+- This may allow for improved staining
 
 ## PPE
 - Eyepro/ faceshield
