@@ -2,7 +2,7 @@
 
 flowchart LR
 
-    id1(Prep stain) ---> id2(Apply stain)
+    id1(Prep stain) ---> id2(Apply stain<br>Wait 6 hours)
     
     chop-->drill
     
@@ -12,13 +12,13 @@ flowchart LR
     
     sand-->id2
     
-    id2-->applyBLO1(Apply BLO<br>Wait 24)
+    id2-->applyBLO1(Apply BLO<br>Wait 1 day)
     
     applyBLO1-->drillInserts(Drill out insert starters)
     
-    drillInserts-->applyBLO2(Apply BLO<br>Wait 24)
+    drillInserts-->applyBLO2(Apply BLO<br>Wait 1 day)
     
-    applyBLO2-->inserts(Insert inserts, build frame)
+    applyBLO2-->inserts(Apply inserts, build frame)
     
 ```
 ### Prep stain
